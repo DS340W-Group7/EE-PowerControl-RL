@@ -1,0 +1,7 @@
+numpy
+scipy
+h5py
+pandas
+matplotlib
+torch>=2.2
+rich
